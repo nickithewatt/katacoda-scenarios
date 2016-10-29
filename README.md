@@ -1,1 +1,2 @@
-# katacoda-scenarios
+Katacoda scenarios
+
